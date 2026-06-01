@@ -1,0 +1,6 @@
+{
+  "name": "Hello World",
+  "description": "Eine einfache, ansprechende Hello World App mit interaktiven Start- und Beenden-Schaltflächen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
